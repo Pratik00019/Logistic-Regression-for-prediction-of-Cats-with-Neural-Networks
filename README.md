@@ -4,4 +4,5 @@ This repository contains the code to predict whether it is cat or not.The best p
 In the docs folder i have provided the pdf file of how to calculate the derivaties while doing backward propogation  and aslo there is an image of derivatives calculated by me.
 
 The general architecture of this algorithm :
-![image](https://user-images.githubusercontent.com/62217310/132103740-4519662e-b0b0-4bb0-9af9-f5425c9092c7.png)
+
+![image](https://user-images.githubusercontent.com/62217310/132103771-f299b6c3-1c9f-433f-b71d-d606cf695e07.png)
