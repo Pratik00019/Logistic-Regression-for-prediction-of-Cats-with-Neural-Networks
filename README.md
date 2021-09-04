@@ -6,3 +6,4 @@ In the docs folder i have provided the pdf file of how to calculate the derivati
 The general architecture of this algorithm :
 
 ![image](https://user-images.githubusercontent.com/62217310/132103771-f299b6c3-1c9f-433f-b71d-d606cf695e07.png)
+
